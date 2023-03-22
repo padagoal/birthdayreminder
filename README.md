@@ -26,7 +26,8 @@ This is a Java program that sends birthday greetings via SMS or email to a list 
 2. Install the above dependencies using Maven.
 3. Modify the configuration file `mail.properties` with your SMTP and/or Twilio account information.
 4. Add your contact data to either a SQLite database or a CSV file using the appropriate schema, in the main folder `./friends.db` or `./friends.csv`
-5. Run the program using the command `mvn exec:java -Dexec.mainClass="com.jobsity.birthdayreminder.BirthdayReminder"`.
+5. Run first on the directory `mvn compile`
+6. Then run the program using the command `mvn exec:java -Dexec.mainClass="com.jobsity.birthdayreminder.BirthdayReminder"`
 
 ## Configuration
 
