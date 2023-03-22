@@ -1,0 +1,6 @@
+﻿id;lastName;firstName;dateOfBirth;email;phone
+1;Gonzalez;David;1980/03/21;gonzalez.david@example.com;59599999
+2;Alcaraz;Pablo;1980/02/29;alcaraz.pablo@example.com;59599999
+3;Doldan;Paula;1980/02/28;doldan.paula@example.com;59599999
+4;Irala;Tamara;1980/03/22;irala.tamara@example.com;59599999
+5;Chaparro;Tanya;1980/03/30;chaparro.tanya@example.com;59599999
